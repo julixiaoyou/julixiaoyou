@@ -92,9 +92,8 @@ int main() {
 ## 🎯 Goals
 
 * 🔭 Currently: Mastering C++
-* 🌱 Learning: Solve problems that have a
+* 🌱 Learning: Solve problems that have a real impact on the world
 * 👯 Want to collab on: beginner-friendly tools and educational projects
-* 🤔 Need help with: Getting hands on real hardware
 
 ---
 
