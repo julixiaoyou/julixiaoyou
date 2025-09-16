@@ -8,7 +8,7 @@ A student developer from Germany. I love programming, math and philosophy. Right
 ---
 
 ## 🔭 What I care about
-- Learning how low-level stuff works (memory, pointers, algorithms)  
+- Learning how low-level stuff works (registers, pointers, memory)  
 - Learning about hardware components and how theyre built  
 
 ---
@@ -16,8 +16,8 @@ A student developer from Germany. I love programming, math and philosophy. Right
 ## 🧠 What I'm learning (live)
 ```bash
 juli@learning ~ $ cat current_projects.txt
-> Solving math problems & trying to understand algorithms
-> Learning C++ fundamentals (pointers are confusing!)
+> Solving math problems & undrstanding physics
+> Learn as much C++ as possible
 
 ```
 
