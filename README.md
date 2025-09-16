@@ -71,27 +71,21 @@ int main() {
 </div>
 
 
----
-📚 My journey so far
-I started programming in Java, but quickly fell in love with understanding how things work on a deeper level. Since I like to work with hardware alot I pivoted towards C and C++, and also know how to code in Assembly. I also really like to use OpenGL/Vulkan to test out how the GPU works on a more detailed level.
-
----
-
-## 📫 Connect
-
-<div align="center">
----
-
-
-
-📫 Connect
-Discord: @angerruu
-Twitter: twitter.com/julixiaoyou
-GitHub: https://github.com/julixiaoyou
-
----
-
+## 📚 My journey so far  
+<div>
+  I started programming in Java, but quickly fell in love with understanding how things work on a deeper level.<br>
+  Since I like to work with hardware alot I pivoted towards C and C++, and also know how to code in Assembly.<br>
+  I also really like to use OpenGL/Vulkan to test out how the GPU works on a more detailed level.
 </div>
+
+## 📫 Connect  
+<div>
+  Discord: @angerruu<br>
+  Twitter: <a href="https://twitter.com/julixiaoyou">twitter.com/julixiaoyou</a><br>
+  GitHub: <a href="https://github.com/julixiaoyou">github.com/julixiaoyou</a>
+</div>
+
+---
 
 ---
 
