@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**julixiaoyou/julixiaoyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hey — I'm **Juli**
+A student developer from Germany. I love programming, math and philosophy. Right now: Creating stuff with OpenGL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Math · Graphical API's · C++**
+
+---
+
+## 🔭 What I care about
+- Learning how low-level stuff works (memory, pointers, algorithms)  
+- Learning about hardware components and how theyre built  
+
+---
+
+## 🧠 What I'm learning (live)
+```bash
+juli@learning ~ $ cat current_projects.txt
+> Solving math problems & trying to understand algorithms
+> Learning C++ fundamentals (pointers are confusing!)
+
+```
+
+
+## 📚 My journey so far
+I started programming in Java, but quickly fell in love with understanding how things work on a deeper level. Since I like to work with hardware alot I pivoted towards C and C++, and also know how to code in Assembly. I also really like to use OpenGL/Vulkan to test out how the GPU works on a more detailed level.
+
+---
+
+
+
+## 📫 Connect
+- **Discord:** @angerruu  
+- **Twitter:** twitter.com/julixiaoyou
+- **GitHub:** https://github.com/julixiaoyou
+
+---
+
